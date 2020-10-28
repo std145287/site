@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Stuart K. Card"
-image_url: /images/alan-kay.jpg
+image_url: /images/stuart-card.jpg
 caption: "O Stuart K. Card είναι Αμερικανός ερευνητής και συνταξιούχος Senior Research Fellow στο Xerox PARC, θεωρείται ένας από τους πρωτοπόρους στην εφαρμογή ανθρώπινων παραγόντων στην αλληλεπίδραση ανθρώπου-υπολογιστή. "
 categories:
   - Βιογραφία 
